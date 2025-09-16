@@ -2,7 +2,7 @@
 html,
 body {
     margin: 0;
-    background: #cccccc;
+    background: #b2caf5;
     color: #090021;
     font-family: 'Poppins', sans-serif;
 }
@@ -26,7 +26,7 @@ nav#main-nav {
     justify-content: space-between;
     height: 60px;
     padding: 16px;
-    background: #FAFAFA;
+    background: #ffffff;
     color: #090021;
 }
 
@@ -48,7 +48,7 @@ nav#main-nav ul {
 }
 
 header {
-    background: #505050;
+    background: #4898ff;
     /* Changez la couleur de fond du header */
     color: #F8F8F8;
     height: 453px;
@@ -101,7 +101,7 @@ section#course {
 }
 
 .card {
-    background: #FFFFFF;
+    background: #ffffff;
     padding: 16px;
     border: 1px solid #F5F5F5;
     border-radius: 10px;
